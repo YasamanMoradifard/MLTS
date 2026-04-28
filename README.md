@@ -1,8 +1,10 @@
 # Machine Learning for Time Series (MLTS)
 
-A structured course companion for **Machine Learning for Time Series (MLTS / MLTS-Deluxe)** at **Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU)**, developed as part of my personal revision on lecture material and hands-on practice in time-series machine learning.
-
 I'm bored, and in this repository, I'm challenging a combination of **technical skills**, **mathematical engagement**, and **applied coding practice** in machine learning for sequential data.
+
+More professional Blah Blah Blah: 
+
+A structured course companion for **Machine Learning for Time Series (MLTS / MLTS-Deluxe)** at **Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU)**, developed as part of my personal revision on lecture material and hands-on practice in time-series machine learning.
 
 This repository combines:
 - a concise lecture summary of the core course topics,
